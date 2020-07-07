@@ -1,0 +1,8 @@
+a= int(input("what is the value of a ?:"))
+b= int(input("what is the value of b ?:"))
+print ("sum of a and b is :" +str(a+b))
+print ("diff of a and b is :"+str(a-b))
+print ("product of a and b is :" +str(a*b))
+print ("div of a and b is :" +str(a/b))
+print ("per of a and b is :" +str(100/b*a))             # IF U WANT TO CALCULATE PERCENTAGE OF MATRIC 
+                                                        # JUST ENTER YOUR MARKS IN "a" AND TOTAL MARKS IN "b"
